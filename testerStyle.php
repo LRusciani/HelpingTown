@@ -28,7 +28,7 @@ body {
 #header-cont a{
 	margin:5px;
 	font-weight: bold;
-	color:blue;
+	color:blue; 
 	text-decoration: none;
 	font-size: 20;
 }
